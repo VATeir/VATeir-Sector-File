@@ -9,7 +9,7 @@
 ;Modified Jan 06 with new AIP updates for use from March 16th 2006
 ;Modified Jul 06 for NOTA sector addition
 ;Modified by Séamus Ó Grádaigh - April '07
-;Airway corrections made, waypoints added, and SOTA extension added
+;Airway corrections made, waypoints added, and SOTA extENSion added
 ;Modified by Daniel Doorgakant & Séamus Ó Grádaigh May '07 - Waterford Ground layout added // Airway Modification
 ;June 2007 - Sector File updated by Alex Stjepanovic - Based on data out of Irish AIP and other various source - ALL DATA AND SECTOR FILE MADE MORE EFFICIENT TO USE AND EDIT! No it wasnt!!
 ;July 2007 - Sector File updated by Séamus Ó Grádaigh - L9, UN517, UW13, UV14, UW12, UL9, UN160, UN525, UN542 airways updated. Newly drawn East/West sector boundaries added, and addtion of extra airspace as part of Shannon AOR.
@@ -302,8 +302,10 @@ DONOX	N053.54.47.000	W008.49.04.000
 DUNLO	N053.19.48.000	W005.30.00.000
 EBABO	N051.38.24.000	W008.42.51.700
 EDONO	N053.59.27.000	W007.42.22.000
+EIDER 	N052.38.35.300	W009.06.22.800
 ELKAM	N053.13.31.300	W006.16.17.800
 ELPOM	N052.33.34.649	W009.13.30.734
+EKNIS	N052.54.18.600	W008.55.40.000
 ELSOX	N051.00.00.000	W014.00.00.000
 ELTIG	N051.45.10.833	W007.49.50.713
 EMPER	N049.00.00.000	W009.00.00.000
@@ -478,6 +480,10 @@ NEXAT	N051.56.20.000	W006.34.32.001
 NIBOG	N055.00.00.000	W010.00.00.000
 NIMAT	N053.57.54.000	W005.44.32.000
 NIPIT	N054.27.09.000	W008.24.10.000
+NN001	N052.38.35.300	W009.02.58.300
+NN002	N052.41.35.400	W008.56.36.700
+NN008	N052.44.24.300	W008.50.37.300
+NN009	N052.43.14.700	W008.53.05.600
 NONSI	N051.50.01.100	W008.06.39.802
 NORLA	N051.37.09.000	W006.52.11.000
 NOSLO	N053.22.54.001	W003.38.42.000
