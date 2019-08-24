@@ -2,53 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Radar  Transceiver Location.kml</name>
-	<Style id="s_ylw-pushpin1">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin10">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl1">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl10">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin00">
+	<StyleMap id="m_ylw-pushpin01">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#s_ylw-pushpin10</styleUrl>
@@ -58,11 +12,34 @@
 			<styleUrl>#s_ylw-pushpin_hl10</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="s_ylw-pushpin_hl10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
 	<Folder>
 		<name>Radar / Transceiver Location</name>
 		<open>1</open>
 		<Placemark>
-			<name>MNT Gab (RAD 1)</name>
+			<name>MNT Gab (RAD 1) / Transcever</name>
+			<description>Height 1295
+
+Range 
+Line Of Sight:  70
+Radio Horizon: 81</description>
 			<LookAt>
 				<gx:TimeStamp><when>2017-06-18</when>
 </gx:TimeStamp>
@@ -71,22 +48,27 @@
 					<gx:option enabled="0" name="sunlight"></gx:option>
 					<gx:option enabled="0" name="streetview"></gx:option>
 				</gx:ViewerOptions>
-				<longitude>-9.538854738073924</longitude>
-				<latitude>51.55542424299841</latitude>
+				<longitude>-9.543184843129891</longitude>
+				<latitude>51.55738119488454</latitude>
 				<altitude>0</altitude>
-				<heading>0.004155194390914488</heading>
-				<tilt>17.96203025163711</tilt>
-				<range>2205.102721523698</range>
+				<heading>0.0003798866084127383</heading>
+				<tilt>29.55299163706984</tilt>
+				<range>474.6803068475317</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin01</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.542651450713585,51.55748738482436,0</coordinates>
+				<coordinates>-9.543012828309832,51.55618464503473,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Malin (RAD 2)</name>
+			<name>MNT Gab (RAD 2) / Transcever</name>
+			<description>Radar height 1309ft
+
+Range 
+Line Of Sight: 71
+Radio Horizon: 82</description>
 			<LookAt>
 				<gx:TimeStamp><when>2017-06-18</when>
 </gx:TimeStamp>
@@ -95,24 +77,50 @@
 					<gx:option enabled="0" name="sunlight"></gx:option>
 					<gx:option enabled="0" name="streetview"></gx:option>
 				</gx:ViewerOptions>
-				<longitude>-7.338776445719571</longitude>
-				<latitude>55.33745059688271</latitude>
+				<longitude>-9.543184843129891</longitude>
+				<latitude>51.55738119488454</latitude>
 				<altitude>0</altitude>
-				<heading>-4.873238353793132</heading>
-				<tilt>10.86578536291963</tilt>
-				<range>2308.986999490551</range>
+				<heading>0.0003798866084127383</heading>
+				<tilt>29.55299163706984</tilt>
+				<range>474.6803068475317</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin01</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-7.342159597480059,55.33707653797242,0</coordinates>
+				<coordinates>-9.541572222719793,51.55741137595052,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Shannon (RAD 3) / Transceiver</name>
-			<description>Shannon Transceiver
-</description>
+			<name>Malin (RAD 3) / Transcever</name>
+			<description>Height 856
+
+Range 
+Line Of Sight: 57
+Radio Horizon: 67</description>
+			<LookAt>
+				<longitude>-7.294497202509667</longitude>
+				<latitude>55.3323984157594</latitude>
+				<altitude>0</altitude>
+				<heading>0.5422020057530017</heading>
+				<tilt>0</tilt>
+				<range>6365.646641140609</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin01</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-7.274243786252357,55.35514757784261,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shannon (RAD 4) / Transceiver</name>
+			<description>Shannon Transceiver 16ft
+
+
+Range 
+Line Of Sight: 7
+Radio Horizon: 9</description>
 			<LookAt>
 				<gx:TimeStamp><when>2006-11-02</when>
 </gx:TimeStamp>
@@ -129,15 +137,20 @@
 				<range>127.5379016978317</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<styleUrl>#m_ylw-pushpin01</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-8.936569444444444,52.70157222222223,0</coordinates>
+				<coordinates>-8.936569444444444,52.70157222222224,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>DUB 1 (RAD 4) / Transceiver</name>
-			<description>Transceiver Location DUB</description>
+			<name>DUB 1 (RAD 5) / Transceiver</name>
+			<description>Transceiver Location DUB 223ft
+
+
+Range 
+Line Of Sight: 29
+Radio Horizon: 34</description>
 			<LookAt>
 				<gx:TimeStamp><when>2018-06-24</when>
 </gx:TimeStamp>
@@ -154,14 +167,14 @@
 				<range>267.8112275276817</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<styleUrl>#m_ylw-pushpin01</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-6.257636520697064,53.43859379994615,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>DUB 2 (RAD 5)</name>
+			<name>DUB 2 (RAD 6)</name>
 			<LookAt>
 				<gx:TimeStamp><when>2016-12-31</when>
 </gx:TimeStamp>
@@ -178,87 +191,14 @@
 				<range>305.3332932807257</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin01</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-6.252328666663446,53.43918167990236,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Cork (RAD 7) / Transceiver</name>
-			<description>Cork Transceiver </description>
-			<LookAt>
-				<gx:TimeStamp><when>2018-06-23</when>
-</gx:TimeStamp>
-				<gx:ViewerOptions>
-					<gx:option name="historicalimagery"></gx:option>
-					<gx:option enabled="0" name="sunlight"></gx:option>
-					<gx:option enabled="0" name="streetview"></gx:option>
-				</gx:ViewerOptions>
-				<longitude>-8.521785108151139</longitude>
-				<latitude>51.82220318821673</latitude>
-				<altitude>0</altitude>
-				<heading>2.900765943580543e-005</heading>
-				<tilt>18.47294778201453</tilt>
-				<range>348.5861995194105</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin00</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-8.521877363656564,51.82210819647468,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Dooncarton (Rad 8)</name>
-			<LookAt>
-				<gx:TimeStamp><when>2016-12-31</when>
-</gx:TimeStamp>
-				<gx:ViewerOptions>
-					<gx:option name="historicalimagery"></gx:option>
-					<gx:option enabled="0" name="sunlight"></gx:option>
-					<gx:option enabled="0" name="streetview"></gx:option>
-				</gx:ViewerOptions>
-				<longitude>-9.833419640124129</longitude>
-				<latitude>54.26741630950905</latitude>
-				<altitude>0</altitude>
-				<heading>-1.11653601644498</heading>
-				<tilt>0</tilt>
-				<range>869.7096800117929</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.833419640124129,54.26741630950905,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Woodcock Hill (RAD 9)</name>
-			<LookAt>
-				<gx:TimeStamp><when>2016-12-31</when>
-</gx:TimeStamp>
-				<gx:ViewerOptions>
-					<gx:option name="historicalimagery"></gx:option>
-					<gx:option enabled="0" name="sunlight"></gx:option>
-					<gx:option enabled="0" name="streetview"></gx:option>
-				</gx:ViewerOptions>
-				<longitude>-8.707209755473738</longitude>
-				<latitude>52.72059792777691</latitude>
-				<altitude>0</altitude>
-				<heading>-2.413611028911278</heading>
-				<tilt>17.71864582107502</tilt>
-				<range>371.4155308590655</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-8.707517589424787,52.7204689519951,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>DUB 3 (RAD 6)</name>
+			<name>DUB 3 (RAD 7)</name>
 			<LookAt>
 				<gx:TimeStamp><when>2018-06-24</when>
 </gx:TimeStamp>
@@ -275,10 +215,98 @@
 				<range>276.7630700312442</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin01</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-6.263438719179359,53.42882437992369,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cork (RAD 8) / Transceiver</name>
+			<description>Cork Transceiver 531ft
+
+Range 
+Line Of Sight: 45
+Radio Horizon: 52
+</description>
+			<LookAt>
+				<gx:TimeStamp><when>2018-06-23</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.521785108151139</longitude>
+				<latitude>51.82220318821673</latitude>
+				<altitude>0</altitude>
+				<heading>2.900765943580543e-005</heading>
+				<tilt>18.47294778201453</tilt>
+				<range>348.5861995194105</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin01</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.521877363656564,51.82210819647468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dooncarton (Rad 9) / Transcever</name>
+			<description>Height 836
+
+Range 
+Line Of Sight: 57
+Radio Horizon: 66</description>
+			<LookAt>
+				<gx:TimeStamp><when>2009-09-13</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-9.826002285056578</longitude>
+				<latitude>54.2724571372313</latitude>
+				<altitude>0</altitude>
+				<heading>-1.119846750428593</heading>
+				<tilt>30.00065236486877</tilt>
+				<range>133.3475036989017</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin01</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.826129190607455,54.27235760422767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Woodcock Hill (RAD 10)</name>
+			<description>Height 987
+
+Range 
+Line Of Sight: 62
+Radio Horizon: 72</description>
+			<LookAt>
+				<gx:TimeStamp><when>2016-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.707209755473757</longitude>
+				<latitude>52.72059792777692</latitude>
+				<altitude>0</altitude>
+				<heading>-2.413611028910275</heading>
+				<tilt>17.71864582107494</tilt>
+				<range>371.4155308575003</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin01</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.70748107919191,52.72099327715705,0</coordinates>
 			</Point>
 		</Placemark>
 	</Folder>
