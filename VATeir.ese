@@ -62,9 +62,9 @@ EISN:Shannon Control:135.600:SNS:S:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13
 ;Dublin
 EIDW:Dublin Approach:121.100:DWAPP:D:EIDW:APP:-:-:6600:6677
 EIDW:Dublin Approach:119.930:FIN:F:EIDW:APP:-:-:6600:6677 ; 8.33
-EIDW:Dublin Approach:119.920:FIN:F:EIDW:APP:-:-:6600:6677 ; 12.5mhz
-EIDW:Dublin Control:129.170:DWUN:1:EIDW:CTR:-:-:6600:6677
-EIDW:Dublin Control:132.570:DWLN:2:EIDW:CTR:-:-:6600:6677
+EIDW:Dublin Approach:119.925:FIN:F:EIDW:APP:-:-:6600:6677 ; 12.5mhz
+EIDW:Dublin Control:129.175:DWUN:1:EIDW:CTR:-:-:6600:6677
+EIDW:Dublin Control:132.575:DWLN:2:EIDW:CTR:-:-:6600:6677
 EIDW:Dublin Control:124.650:DWUS:3:EIDW:CTR:-:-:6600:6677
 EIDW:Dublin Control:126.250:DWLS:4:EIDW:CTR:-:-:6600:6677 ;Old LS Freq
 EIDW:Dublin Control:118.500:DWIN:F:EIDW:CTR:-:-:0400:0477
@@ -72,8 +72,8 @@ EIDW:Dublin Holding:133.280:DWHD:H:EIDW:CTR:-:-:6600:6677 ;8.33 I think
 EIDW:Dublin Tower:118.600:DWTWR:Z:EIDW:TWR:-:-:6600:6677
 EIDW:Dublin Ground:121.800:DWGND:Z:EIDW:GND:-:-:6600:6677
 EIDW:Dublin North Ground:118.750:DWNGND:Z:EIDW:GND:-:-:6600:6677
-EIDW:Dublin Clearence Delivery:121.870:DWDEL:Z:EIDW:DEL:-:-:6600:6677
-EIDW:Dublin ATIS:124.520:DW_ATIS:Z:EIDW:ATIS:-:-:0000:0000
+EIDW:Dublin Clearence Delivery:121.875:DWDEL:Z:EIDW:DEL:-:-:6600:6677
+EIDW:Dublin ATIS:124.525:DW_ATIS:Z:EIDW:ATIS:-:-:0000:0000
 ;EIDW:Dublin ATIS:124.530:DW_ATIS:Z:EIDW:ATIS:-:-:0000:0000
 ;Shannon
 EINN:Shannon Approach:121.400:NNAPP:E:EINN:APP:-:-:6630:6637
@@ -117,29 +117,40 @@ EIWT:Weston Tower:122.400:WTTWR:Z:EIWT:TWR:-:-:6600:6627
 ; UK
 ;New London Sectors
 LON_N_CTR:London Control:133.700:LN:LN:LON:CTR:LON:CTR:-:-::
-LON_W_CTR:London Control:126.070:LW:LW:LON:CTR:LON:CTR:-:-::
+LON_W_CTR:London Control:126.075:LW:LW:LON:CTR:LON:CTR:-:-::
 LON_WN_CTR:London Control:133.600:LWN:LWN:LON:CTR:LON:CTR:-:-::
 ;LON_CTR:London Control:123.900:LON:LON:LON:CTR:LON:CTR:-:-::
-LON_CTR:London Control:127.820:LON:LON:LON:CTR:LON:CTR:-:-::
+LON_CTR:London Control:127.825:LON:LON:LON:CTR:LON:CTR:-:-::
 ;
-Scottish Isle Of Man:MAN_W_CTR:128.050:MW:X:MAN:CTR:MAN:CTR:-:-::
-Scottish Control:MAN_CTR:118.770:MAN:X:MAN:CTR:MAN:CTR:-:-::
-Scottish Control:-:135.520:SC:SC:SCO:CTR:-:-::
-Scottish Control:-:123.770:SA:SA:STC:CTR:-:-::
+Scottish Isle Of Man:MAN_W_CTR:128.055:MW:X:MAN:CTR:MAN:CTR:-:-::
+Scottish Control:MAN_CTR:118.775:MAN:X:MAN:CTR:MAN:CTR:-:-::
+Scottish Control:-:135.525:SC:SC:SCO:CTR:-:-::
+Scottish Control:-:123.775:SA:SA:STC:CTR:-:-::
 Aldergrove Radar:-:128.500:BR:BR:EGAA:APP:-:-::
 Belfast Approach:-:120.900:BA:BA:EGAA:APP:-:-::
 Ronaldsway Radar:120.850:RR:R:EGNS:APP:-:-::
-EGCC_S_APP:Manchester Radar:118.570:CCS:C:EGCC:APP:-:-::
+EGCC_S_APP:Manchester Radar:118.575:CCS:C:EGCC:APP:-:-::
 EGCC_N_APP:Manchester Radar:135.000:CCN:C:EGCC:APP:-:-::
 EGGP_APP:Liverpool Radar:119.850:GPR:X:EGGP:APP:-:-::
 ;
 ;Oceanic Positions
 ;
-Shanwick Oceanic:-:131.800:GX:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(Delivery):-:131.850:GX:SO:EGGX:FSS:-:-::
-;Shanwick Oceanic(Delivery):-:131.550:GX:SO:EGGX:FSS:-:-::
-;Shanwick Oceanic(Delivery):-:131.650:GX:SO:EGGX:FSS:-:-::
-;Shanwick Oceanic(Delivery):-:131.700:GX:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(HF:8.906):-:131.550:GXA:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(HF:5.616):-:131.650:GXB:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(HF:5.649):-:131.750:GXC:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(HF:7.675):-:131.850:GXD:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(HF:8.831):-:131.825:GXF:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(HF:6.622):-:131.800:GX:SO:EGGX:FSS:-:-::
+;Shanwick Delivery
+Shanwick Oceanic(Delivery):-:131.525:GX1:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(Delivery):-:131.625:GX2:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(Delivery):-:131.725:GX3:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(Delivery):-:131.900:GX4:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(Delivery):-:131.600:GX5:SO:EGGX:FSS:-:-::
+
+Shanwick Oceanic:-:127.650:GX:SO:EGGX:FSS:-:-::
+
+
 
 ;
 ; Europe
