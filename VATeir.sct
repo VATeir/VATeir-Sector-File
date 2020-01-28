@@ -1,36 +1,6 @@
 ;Euroscope Sectorfile for Ireland
-;Created by Ton Out, VATEUD8 (vateud8@vateud.org)
-;Modified by Nick Whittome - SATEIR - Added EIDW better ground features and EICK
-;All rights reserved
-;Version October 2003, based on AIRAC 0310 and FS2002 default scenery
-;Airport details generated with Gndmaker by Corey Wirun
-;To see the RNAV fixes in ProController remove empty lines after the first block of fixes
-;Modified by Stephen Murphy - VATeir - Added EINN and other ground features, aswell as corrections and updates
-;Modified Jan 06 with new AIP updates for use from March 16th 2006
-;Modified Jul 06 for NOTA sector addition
-;Modified by Séamus Ó Grádaigh - April '07
-;Airway corrections made, waypoints added, and SOTA extENSion added
-;Modified by Daniel Doorgakant & Séamus Ó Grádaigh May '07 - Waterford Ground layout added // Airway Modification
-;June 2007 - Sector File updated by Alex Stjepanovic - Based on data out of Irish AIP and other various source - ALL DATA AND SECTOR FILE MADE MORE EFFICIENT TO USE AND EDIT! No it wasnt!!
-;July 2007 - Sector File updated by Séamus Ó Grádaigh - L9, UN517, UW13, UV14, UW12, UL9, UN160, UN525, UN542 airways updated. Newly drawn East/West sector boundaries added, and addtion of extra airspace as part of Shannon AOR.
-;August 2007 - Sector File updated by Séamus Ó Grádaigh - Dublin STARs updated, All SIDs now sorted by runway, then alphabetically, fixes added, L70 and L975 airways corrected.
-;March 2008 - Sector File Updated to include New Corks procedures, sectorfile cleaned up.
-;April 2008 - Lower ATCC boundaries amended. EIDW Sid name format changed to reflect EINN/EICK.
-;May 2008 - Sector file updated to reflect amended Shannon procedures and new/realigned airways.  Airways re-done with name variable instead of co-ordintes.
-;June 2008 - Geography broken up to allow individual ground layouts to be turned off.  Sid format changed to reflect runway/aircraft type.  RNAV points removed.
-;June 2008 (cont) - Non-EIXX runways removed.  MOA names prefixed with MIL for easier access/sorting.  KEKUK fixed to KENUK.
-;December 2008 - Taxiway Layouts for Shannon and Cork added by Cillian Long.  Stand Numbers moved to ESE fretext.
-;Feburay 2009 (cont) - Weston Ground layout added.   Taxiway Layouts moved to seperate GEO section prefix TXY-.
-;May 2009 - New Arrival/Departure procedures for EIDW added.
-;June 2009 - Taxiway Charlie added at EINN - Cheers James.
-;March 2010 -Loads of stuff taken out i.e. the upper airways - Dublin/Shannon ground layout.
-;April 2015 - Updated Dept/Arrival procedures at EIDW - MB - New Dublin Ground layout to reflect Areososft scenery - CB.
-;May 2015 - Changes to EIDW/EGTT delegated areas.
-;July 2015 - Cork/Shannon Ground layouts updated to reflect current layout and to match Dublin style.
-;June 2017 OP Team Added Knock Sids Stars Added DW866 to 1R
-;To Remove Gates Remove Line 929 to 955
 [INFO]
-VATeir 2002 Sector File
+VATeir 2002 Sector File Beta 1.02
 EIDW_TWR
 EIDW
 N052.43.15.599
@@ -247,6 +217,8 @@ ASGON	N052.35.54.398	W009.08.38.101
 ASKUP	N053.53.33.000	W006.06.32.000
 ATLAM	N051.38.39.768	W008.22.35.915
 ATSUR	N050.00.00.000	W014.00.00.000
+AMLAD	N056.15.52.000	W010.00.00.000
+APSOV	N055.49.23.000	W010.00.00.000
 BABAN	N054.00.00.000	W012.00.00.000
 BABRA	N053.37.39.000	W003.56.43.000
 BADEN	N051.46.54.800	W008.40.53.400
