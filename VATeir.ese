@@ -61,6 +61,7 @@ EIWT:Weston ATIS:118.870:WTATIS:Z:EIWT:ATIS:-:-::
 ;MIL
 EIME:Baldonnel Military Radar:122.00:RAD:M:EIME:APP:-:-:6600:6627
 EIME:Baldonnel Tower:123.500:BAL:Z:EIME:TWR:-:-:6600:6627
+EIME:Baldonnel ATIS:122.820:MEATIS:Z:EIME:ATIS:-:-::
 ;
 ; UK
 ;New London Sectors
