@@ -7,48 +7,34 @@
 ;
 [POSITIONS]
 ;Shannon Control
-;Shannon Control
-;EISN:Shannon Control:122.975:SNN:N:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; NOTA
-;EISN:Shannon Control:122.975:SNN:N:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; NOTA
 EISN:Shannon Control:122.970:SNN:N:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; NOTA
 EISN:Shannon Control:122.970:SNN:5:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; NOTA
-
-
 EISN:Shannon Control:131.150:SNE:E:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; EAST
 EISN:Shannon Control:131.150:SNE:2:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; EAST
-
 EISN:Shannon Control:132.150:SNW:W:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; WEST
 EISN:Shannon Control:132.150:SNW:3:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; WEST
-
 EISN:Shannon Control:135.600:SNS:S:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; SOTA
 EISN:Shannon Control:135.600:SNS:4:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; SOTA
-
 EISN:Shannon Control:135.220:SNO:O:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; OSCAR
 EISN:Shannon Control:135.220:SNO:6:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; OSCAR
-
-;----------------------------------------Low Level--------------------------------------------------
+;----------------------------------------Low Level-------------------------------------------------
 EISN:Shannon Control:119.070:SLN:B:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ;Low North
 EISN:Shannon Control:124.700:SLS:L:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ;Low South
-
 EISN:Shannon Information:127.500:SNI:I:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ;Info
-
 ;Dublin
-EIDW:Dublin Approach:121.100:DWAPP:D:EIDW:APP:-:-:6600:6677
-EIDW:Dublin Approach:119.930:FIN:F:EIDW:APP:-:-:6600:6677 ; 8.33
-EIDW:Dublin Approach:119.925:FIN:F:EIDW:APP:-:-:6600:6677 ; 12.5mhz
 EIDW:Dublin Control:129.170:DWUN:1:EIDW:CTR:-:-:6600:6677
 EIDW:Dublin Control:132.570:DWLN:2:EIDW:CTR:-:-:6600:6677
 EIDW:Dublin Control:124.650:DWUS:3:EIDW:CTR:-:-:6600:6677
 EIDW:Dublin Control:126.250:DWLS:4:EIDW:CTR:-:-:6600:6677 ;Old LS Freq
-
+EIDW:Dublin Approach:121.100:DWAPP:D:EIDW:APP:-:-:6600:6677
+EIDW:Dublin Approach:119.920:FIN:F:EIDW:APP:-:-:6600:6677 ; 12.5mhz
+;
 EIDW:Dublin Control:118.500:DWIN:F:EIDW:CTR:-:-:0400:0477
-EIDW:Dublin Holding:133.280:DWHD:H:EIDW:CTR:-:-:6600:6677 ;8.33 I think
 EIDW:Dublin Tower:118.600:DWTWR:Z:EIDW:TWR:-:-:6600:6677
 EIDW:Dublin Ground:121.800:DWGND:Z:EIDW:GND:-:-:6600:6677
 EIDW:Dublin North Ground:118.750:DWNGND:Z:EIDW:GND:-:-:6600:6677
 EIDW:Dublin Clearence Delivery:121.870:DWDEL:Z:EIDW:DEL:-:-:6600:6677
-EIDW:Dublin ATIS:124.520:DW_ATIS:Z:EIDW:ATIS:-:-:0000:0000
-;EIDW:Dublin ATIS:124.530:DW_ATIS:Z:EIDW:ATIS:-:-:0000:0000
+EIDW:Dublin ATIS:124.52:DWATIS:Z:EIDW:ATIS:-:-:0000:0000
 ;Shannon
 EINN:Shannon Approach:121.400:NNAPP:E:EINN:APP:-:-:6630:6637
 EINN:Shannon Tower:118.700:NNTWR:Z:EINN:TWR:-:-:6630:6637
@@ -61,26 +47,27 @@ EICK:Cork Ground:121.850:CKGND:Z:EICK:GND:-:-:6650:6657
 EICK:Cork ATIS:120.920:CKATIS:Z:EICK:ATIS:-:-:0000:0000
 ;Regionals
 EIKN:Connaught Tower:130.700:KNTWR:Z:EIKN:TWR:-:-:6640:6647
-EIKN:Connaught ATIS:118.525:KNATIS:Z:EIKN:ATIS:-:-::
+EIKN:Connaught ATIS:118.520:KNATIS:Z:EIKN:ATIS:-:-::
 EIKN:Connaught Ground:121.900:KNGND:Z:EIKN:GND:-:-:6640:6647
 EISG:Sligo Tower:122.100:SGTWR:Z:EISG:TWR:-:-:6640:6647
-;EICM:Carnmore Tower:122.500:CMTWR:Z:EICM:TWR:-:-:6640:6647
 EIWF:Waterford Tower:129.850:WFTWR:Z:EIWF:TWR:-:-:6640:6647
+EICK:Cork ATIS:120.920:CKATIS:Z:EICK:ATIS:-:-:0000:0000
 EIDL:Donegal Tower:129.800:DLTWR:Z:EIDL:TWR:-:-:6640:6647
+EIDL:Donegal ATIS:129.925:DLATIS:Z:EIDL:ATIS:-:-::
 EIKY:Kerry Tower:123.320:KYTWR:Z:EIKY:TWR:-:-:6640:6647
+EIKY:Kerry ATIS:118.020:KYATIS:Z:EIKY:ATIS:-:-::
+EIWT:Weston Tower:122.400:WTTWR:Z:EIWT:TWR:-:-:6600:6627
+EIWT:Weston ATIS:118.870:WTATIS:Z:EIWT:ATIS:-:-::
+;MIL
 EIME:Baldonnel Military Radar:122.00:RAD:M:EIME:APP:-:-:6600:6627
 EIME:Baldonnel Tower:123.500:BAL:Z:EIME:TWR:-:-:6600:6627
-EIWT:Weston Tower:122.400:WTTWR:Z:EIWT:TWR:-:-:6600:6627
 ;
-
-;8.33khz spacing freqs
 ; UK
 ;New London Sectors
 LON_N_CTR:London Control:133.700:LN:LN:LON:CTR:LON:CTR:-:-::
 LON_W_CTR:London Control:126.075:LW:LW:LON:CTR:LON:CTR:-:-::
 LON_W_CTR:London Control:126.070:LW:LW:LON:CTR:LON:CTR:-:-::
 LON_WN_CTR:London Control:133.600:LWN:LWN:LON:CTR:LON:CTR:-:-::
-;LON_CTR:London Control:123.900:LON:LON:LON:CTR:LON:CTR:-:-::
 LON_CTR:London Control:127.825:LON:LON:LON:CTR:LON:CTR:-:-::
 LON_CTR:London Control:127.820:LON:LON:LON:CTR:LON:CTR:-:-::
 EGTT_I_CTR:London Information:124.600:LI:LI:EGTT:CTR:EGTT:CTR:-:-::
@@ -93,6 +80,7 @@ Scottish Control:-:135.525:SC:SC:SCO:CTR:-:-::
 Scottish Control:-:135.520:SC:SC:SCO:CTR:-:-::
 Scottish Control:-:123.775:SA:SA:STC:CTR:-:-::
 Scottish Control:-:123.770:SA:SA:STC:CTR:-:-::
+;
 Aldergrove Radar:-:128.500:BR:BR:EGAA:APP:-:-::
 Belfast Approach:-:120.900:BA:BA:EGAA:APP:-:-::
 Ronaldsway Radar:120.850:RR:R:EGNS:APP:-:-::
@@ -115,11 +103,7 @@ Shanwick Oceanic(Delivery):131.625:GX2:SO:EGGX:FSS:-:-::
 Shanwick Oceanic(Delivery):131.725:GX3:SO:EGGX:FSS:-:-::
 Shanwick Oceanic(Delivery):131.900:GX4:SO:EGGX:FSS:-:-::
 Shanwick Oceanic(Delivery):131.600:GX5:SO:EGGX:FSS:-:-::
-
 Shanwick Oceanic:-:127.650:GX:SO:EGGX:FSS:-:-::
-
-
-
 ;
 ; Europe
 Brest Control:-:125.500:RR:RR:LFRR:CTR:-:-::
