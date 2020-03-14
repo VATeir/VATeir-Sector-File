@@ -1,0 +1,25 @@
+Cork LOA update
+LOAs updates
+410 removed, 418 Moved to where its supposed to be....
+--2003 Release 14/03/2020---
+Move Cork MSA to own free text #6
+Reloacated Dublin Sectors to prevent DUB from appearing as next controller
+Reworked taxi lines
+Change stand numbers
+DWUS/LS Freq Change. 
+Gander Oceanic Added.
+Updated Lables for MSAs
+Removed DUPE GARTI Point and Non Irish airport airspaces
+Reinstated DW Full Arcs
+Waterford Hold points changed
+Shannon stop bars colour chnage
+Cork stopbar colour change to red
+Cork Runways Update
+MSAs added for Scottish plus boundary
+Added DUB MSA for IOM
+Fixed Sector Display
+Fix HL -> DUB AC concerned
+Added Bal atis
+ATIS added for many places. Lots of cleaning up of freqs
+LON INFO + WST Taxiways
+Added T290 Oceanic Track
