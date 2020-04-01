@@ -23,3 +23,25 @@ Added Bal atis
 ATIS added for many places. Lots of cleaning up of freqs
 LON INFO + WST Taxiways
 Added T290 Oceanic Track
+--2004 Release 01/04/2020---
+Added second LIPGO Arrival and ABLIN to assign star automatically.
+Added no color version of DW 10/28 arcs.
+RWY 34 C/D sids in Display Settings.
+ESE cleaned up.
+Airway issues Fixed DWUN airspace block showing on US.
+Sector Ownership.
+Major redesign of High Level Sectors.
+High Level Radio Boundary Lines in STARS.
+Double LEMTA removed.
+Added / Updated Apron Taxiway Names.
+Link R and SAR Hangar.
+Removed STD 208 Line.
+Added Engine Test Site 1.
+Stand Number Changes and 200T Taxiline.
+Added Stand 203C line.
+Added Waypoint NEMAK.
+Format Link6 Text.
+New Approach View for new Tower.
+Attempts to fix the FIN showing before DWAPP.
+Updated BAL Runway.
+LN/MAN_W Boundary line continues when DWUS is on.
