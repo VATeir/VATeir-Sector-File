@@ -9,18 +9,28 @@
 ;Shannon Control
 EISN:Shannon Control:131.150:SNE:E:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; EAST
 EISN:Shannon Control:131.150:SNE:1:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; EAST
-EISN:Shannon Control:131.150:SNE:2:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; EAST
-EISN:Shannon Control:132.150:SNW:W:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; WEST
-EISN:Shannon Control:132.150:SNW:3:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; WEST
+
+EISN:Shannon Control:120.050:SNW:W:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; WEST
+EISN:Shannon Control:120.050:SNW:2:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; WEST
+
 EISN:Shannon Control:135.600:SNS:S:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; SOTA
-EISN:Shannon Control:135.600:SNS:4:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; SOTA
+EISN:Shannon Control:135.600:SNS:3:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; SOTA
+EISN:Shannon Control:134.620:SNK:8:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; SOTA SUPER
+EISN:Shannon Control:134.620:SNK:K:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; SOTA SUPER
+
 EISN:Shannon Control:122.970:SNN:N:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; NOTA
-EISN:Shannon Control:122.970:SNN:5:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; NOTA
+EISN:Shannon Control:122.970:SNN:4:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; NOTA
+EISN:Shannon Control:129.650:SNJ:J:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; NOTA SUPER
+EISN:Shannon Control:129.650:SNJ:9:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; NOTA SUPER
+
 EISN:Shannon Control:135.220:SNO:O:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; OSCAR
-EISN:Shannon Control:135.220:SNO:6:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; OSCAR
+EISN:Shannon Control:135.220:SNO:5:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; OSCAR
+
+
 ;----------------------------------------Low Level-------------------------------------------------
 EISN:Shannon Control:119.070:SLN:B:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ;Low North
 EISN:Shannon Control:124.700:SLS:L:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ;Low South
+;
 EISN:Shannon Information:127.500:SNI:I:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ;Info
 ;Dublin
 EIDW:Dublin Control:129.170:DWUN:1:EIDW:CTR:-:-:6600:6677
@@ -96,12 +106,12 @@ EGGP_APP:Liverpool Radar:119.850:GPR:X:EGGP:APP:-:-::
 ;
 ;Oceanic Positions
 ;
-Shanwick Oceanic(HF:8.906):131.550:GXA:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(HF:5.616):131.650:GXB:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(HF:5.649):131.750:GXC:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(HF:7.675):131.850:GXD:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(HF:8.831):131.825:GXF:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(HF:6.622):131.800:GX:SO:EGGX:FSS:-:-:::
+Shanwick Oceanic(HF-8.906):-:131.550:GXA:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(HF-5.616):-:131.650:GXB:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(HF-5.649):-:131.750:GXC:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(HF-7.675):-:131.850:GXD:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(HF-8.831):-:131.825:GXF:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(HF-6.622):-:131.800:GX:SO:EGGX:FSS:-:-:::
 ;Shanwick Delivery
 Shanwick Oceanic(Delivery):131.525:GX1:SO:EGGX:FSS:-:-::
 Shanwick Oceanic(Delivery):131.625:GX2:SO:EGGX:FSS:-:-::
@@ -111,12 +121,12 @@ Shanwick Oceanic(Delivery):131.600:GX5:SO:EGGX:FSS:-:-::
 Shanwick Oceanic:-:127.650:GXD:SO:EGGX:FSS:-:-::
 ;
 ;
-Gander Oceanic(HF:3.016):131.570:QXA:SO:CZQX:FSS:-:-::
-Gander Oceanic(HF:8.864):131.670:QXB:SO:CZQX:FSS:-:-::
-Gander Oceanic(HF:8.879):131.770:QXC:SO:CZQX:FSS:-:-::
-Gander Oceanic(HF:8.891):131.870:QXD:SO:CZQX:FSS:-:-::
-Gander Oceanic(HF:6.622):131.720:QXF:SO:CZQX:FSS:-:-::
-Gander Oceanic(HF:3.476):131.700:QX:SO:CZQX:FSS:-:-::
+Gander Oceanic(HF-3.016):-:131.570:QXA:SO:CZQX:FSS:-:-::
+Gander Oceanic(HF-8.864):-:131.670:QXB:SO:CZQX:FSS:-:-::
+Gander Oceanic(HF-8.879):-:131.770:QXC:SO:CZQX:FSS:-:-::
+Gander Oceanic(HF-8.891):-:131.870:QXD:SO:CZQX:FSS:-:-::
+Gander Oceanic(HF-6.622):-:131.720:QXF:SO:CZQX:FSS:-:-::
+Gander Oceanic(HF-3.476):-:131.700:QX:SO:CZQX:FSS:-:-::
 ;GANDER DELIVERY
 Gander Oceanic(Delivery):131.520:QX1:SO:CZQX:FSS:-:-::
 Gander Oceanic(Delivery):131.620:QX2:SO:CZQX:FSS:-:-::
