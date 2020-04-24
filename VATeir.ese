@@ -33,7 +33,7 @@ EISN:Shannon Control:134.250:SNB:6:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13
 
 
 ;----------------------------------------Low Level-------------------------------------------------
-EISN:Shannon Control:119.070:SLN:B:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ;Low North
+EISN:Shannon Control:119.070:SLN:7:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ;Low North
 EISN:Shannon Control:124.700:SLS:L:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ;Low South
 ;
 EISN:Shannon Information:127.500:SNI:I:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ;Info
