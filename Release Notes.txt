@@ -45,3 +45,33 @@ New Approach View for new Tower.
 Attempts to fix the FIN showing before DWAPP.
 Updated BAL Runway.
 LN/MAN_W Boundary line continues when DWUS is on.
+--2005 Release 01/05/2020---
+Making DWAPP airspace simple
+Decommissioned Iona Taxiway
+More EIWF VRPs
+Added Regionals MSAs
+Added Dublin INFO to Ownership of WT and ME positions
+Added BAL Heli points. 
+Fixed Random sector line. 
+Fixed UNBEG sid for Shannon
+WT and ME regions finished (Kerry WIP)
+Added VRPs to Waypoints to enter into RTE
+Renumbered Low North
+Ignore VRC Files
+Display Lines added as per request
+BANBA sector added
+Removes Individual STARs
+Rename Info Prefix. Removed APP from WT/ME
+LOA PESIT to LW FL230
+Mars line added
+Update to Oceanic.
+Added missing airway waypoints.
+SCT Brought forward for release.
+Added second LIPGO Arrival and ABLIN to assign star automatically.
+Added no color version of DW 10/28 arcs
+RWY 34 C/D sids in Display Settings.
+Airway issues. Fixed DWUN airspace block showing on US
+Displays Sectors when they log on
+Display lines for FIR Boundaries
+Amended and fixed broken sectors.
+Moved LFUNC ESE to Useful files.

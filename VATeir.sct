@@ -1,6 +1,6 @@
 ;Euroscope Sectorfile for Ireland
 [INFO]
-VATeir 05/2020 Sector File 1.20
+VATeir 05/2020 Sector File RC1
 EIDW_TWR
 EIDW
 N052.43.15.599
@@ -119,6 +119,13 @@ SU   291.5   N054.24.28.000 W005.21.55.080 ;South Rock
 
 [AIRPORT]
 ;Ireland
+EIMH    .    N053.38.16.000 W006.52.43.000 E ;Ballyboy
+EIBB    .    N053.30.18.400 W006.14.06.870 E ;BALLYBOUGHAL
+EISP    .    N052.51.00.000 W009.25.00.000 E ;Spanish Point
+EIFR    .    N054.29.31.000 W008.14.40.000 E ;Finner Camp
+EIHH    .    N053.41.78.000 W006.39.21.600 E ;Navan
+
+
 EIAB    .    N053.35.26.730 W007.37.28.570 E ;Abbeyshrule
 EIBN    .    N051.40.45.000 W009.29.27.000 E ;Bantry
 EIBR    .    N053.04.14.900 W007.53.54.800 E ;Birr
@@ -129,7 +136,6 @@ EICL    .    N053.15.06.000 W007.07.20.000 E ;Clonbullogue
 EICM    .    N053.18.00.629 W008.56.29.730 E ;Carnmore
 EICN    .    N052.40.10.200 W008.40.30.600 E ;Coonagh
 EIDL    .    N055.02.40.000 W008.20.27.600 E ;Donegal
-EIHH    .    N053.41.78.000 W006.39.21.600 E ;Navan
 EIDW    .    N053.25.17.000 W006.16.12.000 E ;Dublin Intl
 EIHN    .    N052.51.17.000 W006.32.47.000 E ;Hacketstown
 EIIM    .    N053.06.31.026 W009.39.04.176 E ;Inishmore
