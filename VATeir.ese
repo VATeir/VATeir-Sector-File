@@ -4119,7 +4119,7 @@ ARRAPT:EICK
 
 ;Dublin Approach - Runway 28 active - Northern Sector
 ;Dublin Approach - Nominal ceiling 10000ft
-SECTOR:DW_APP_281:02500:0800
+SECTOR:DW_APP_281:05500:09500
 OWNER:DWAPP:DWLN:DWLS:DWUN:DWUS:SNE
 BORDER:DW_APP_28161:DW_APP_28162:DW_APP_1N:DW_APP_28XC
 ACTIVE:EIDW:28
@@ -4128,21 +4128,30 @@ DEPAPT:EIDW
 ARRAPT:EIDW
 ;
 ;Dublin Approach - Runway 28 active - Southern Sector
-SECTOR:DW_APP_281:02500:08000
+SECTOR:DW_APP_281:05500:09500
 OWNER:DWAPP:DWLN:DWLS:DWUN:DWUS:SNE
 BORDER:DW_APP_28101:DW_APP_28102:DW_APP_1S:DW_APP_28XC
 ACTIVE:EIDW:28
 ACTIVE:EIDW:34
-;
-;;Dublin Approach - Runway 28 active -  Final Sector
-SECTOR:DW_F_APP28:02500:05500;
-OWNER:FIN
-BORDER:DW_F_APP280:DW_F_APP281:DW_F_APP282:DW_F_APP283:DW_F_APP284:DW_F_APP285:DW_F_APP286:DW_F_APP287
+
+
+;Dublin Approach - Runway 28 active - Northern Sector Final
+;Dublin Approach - Nominal ceiling 10000ft
+SECTOR:DW_APP_281:02500:05500
+OWNER:FIN:DWAPP
+BORDER:DW_APP_28161:DW_APP_28162:DW_APP_1N:DW_APP_28XC
 ACTIVE:EIDW:28
+ACTIVE:EIDW:34
 DEPAPT:EIDW
 ARRAPT:EIDW
-;;
-
+;
+;Dublin Approach - Runway 28 active - Southern Sector Final
+SECTOR:DW_APP_281:02500:05500
+OWNER:FIN:DWAPP
+BORDER:DW_APP_28101:DW_APP_28102:DW_APP_1S:DW_APP_28XC
+ACTIVE:EIDW:28
+ACTIVE:EIDW:34
+;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;; Dublin Approach Rwy 10 Active ;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -4179,16 +4188,6 @@ ACTIVE:EIDW:10
 DEPAPT:EIDW
 ARRAPT:EIDW
 ;
-
-;Dublin Approach - Runway 10 active -  Final Sector
-;SECTOR:DW_F_APP10:02500:05500
-;OWNER:FIN:DWAPP
-;BORDER:DW_F_APP10:DW_F_APP102:DW_F_APP103:DW_F_APP104:DW_F_APP105:DW_F_APP106:DW_F_APP107
-;ACTIVE:EIDW:10
-;DEPAPT:EIDW
-;ARRAPT:EIDW
-;
-
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;; Dublin Approach Rwy 16 Active ;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
