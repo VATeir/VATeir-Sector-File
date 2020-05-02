@@ -4202,7 +4202,7 @@ ARRAPT:EIDW
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;Dublin Control Sectors;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;28/34/10;;;;;;;;;;;;;;;;;;;;;
-SECTOR:DWUN:12500:24500
+SECTOR:DWUN:12600:24500
 OWNER:DWUN:SNE
 BORDER:DW_9:DW_1:DW_DelegationBox_1:DW_DelegationBox_2:DW_DelegationBox_3:DW_SPLIT_3:DW_SPLIT_2:DW_11
 DEPAPT:EIDW
@@ -4222,7 +4222,7 @@ ACTIVE:EIDW:34
 ACTIVE:EIDW:10
 
 
-SECTOR:DWUS:12500:24500
+SECTOR:DWUS:12600:24500
 OWNER:DWUS:DWUN:SNE
 BORDER:DW_SPLIT_2:DW_SPLIT_3:DW_DelegationBox_3:DW_DelegationBox_4:DW_DelegationBox_5:DW_4:DW_5:DW_6:DW_12
 DEPAPT:EIDW
