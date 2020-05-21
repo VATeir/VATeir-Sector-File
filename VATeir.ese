@@ -108,7 +108,7 @@ Scottish Control:-:123.770:SA:SA:STC:CTR:-:-::
 ;
 Aldergrove Radar:-:128.500:BR:BR:EGAA:APP:-:-::
 Belfast Approach:-:120.900:BA:BA:EGAA:APP:-:-::
-Ronaldsway Radar:120.850:RR:R:EGNS:APP:-:-::
+Ronaldsway Radar:120.850:IOMR:R:EGNS:APP:-:-::
 EGCC_S_APP:Manchester Radar:118.575:CCS:C:EGCC:APP:-:-::
 EGCC_S_APP:Manchester Radar:118.570:CCS:C:EGCC:APP:-:-::
 EGCC_N_APP:Manchester Radar:135.000:CCN:C:EGCC:APP:-:-::
@@ -116,12 +116,12 @@ EGGP_APP:Liverpool Radar:119.850:GPR:X:EGGP:APP:-:-::
 ;
 ;Oceanic Positions
 ;
-Shanwick Oceanic(HF-8.906):-:131.550:GXA:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(HF-5.616):-:131.650:GXB:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(HF-5.649):-:131.750:GXC:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(HF-7.675):-:131.850:GXD:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(HF-8.831):-:131.825:GXF:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(HF-6.622):-:131.800:GX:SO:EGGX:FSS:-:-:::
+Shanwick Oceanic(HF-8.906):-:131.550:EGGX:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(HF-5.616):-:131.650:EGGX:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(HF-5.649):-:131.750:EGGX:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(HF-7.675):-:131.850:EGGX:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(HF-8.831):-:131.825:EGGX:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(HF-6.622):-:131.800:EGGX:SO:EGGX:FSS:-:-:::
 ;Shanwick Delivery
 Shanwick Oceanic(Delivery):131.525:GX1:SO:EGGX:FSS:-:-::
 Shanwick Oceanic(Delivery):131.625:GX2:SO:EGGX:FSS:-:-::
@@ -131,12 +131,12 @@ Shanwick Oceanic(Delivery):131.600:GX5:SO:EGGX:FSS:-:-::
 Shanwick Oceanic:-:127.650:GXD:SO:EGGX:FSS:-:-::
 ;
 ;
-Gander Oceanic(HF-3.016):-:131.570:QXA:SO:CZQX:FSS:-:-::
-Gander Oceanic(HF-8.864):-:131.670:QXB:SO:CZQX:FSS:-:-::
-Gander Oceanic(HF-8.879):-:131.770:QXC:SO:CZQX:FSS:-:-::
-Gander Oceanic(HF-8.891):-:131.870:QXD:SO:CZQX:FSS:-:-::
-Gander Oceanic(HF-6.622):-:131.720:QXF:SO:CZQX:FSS:-:-::
-Gander Oceanic(HF-3.476):-:131.700:QX:SO:CZQX:FSS:-:-::
+Gander Oceanic(HF-3.016):-:131.570:CZQX:SO:CZQX:FSS:-:-::
+Gander Oceanic(HF-8.864):-:131.670:CZQX:SO:CZQX:FSS:-:-::
+Gander Oceanic(HF-8.879):-:131.770:CZQX:SO:CZQX:FSS:-:-::
+Gander Oceanic(HF-8.891):-:131.870:CZQX:SO:CZQX:FSS:-:-::
+Gander Oceanic(HF-6.622):-:131.720:CZQX:SO:CZQX:FSS:-:-::
+Gander Oceanic(HF-3.476):-:131.700:CZQX:SO:CZQX:FSS:-:-::
 ;GANDER DELIVERY
 Gander Oceanic(Delivery):131.520:QX1:SO:CZQX:FSS:-:-::
 Gander Oceanic(Delivery):131.620:QX2:SO:CZQX:FSS:-:-::
@@ -4500,7 +4500,7 @@ BORDER:6DS/6DU-1:6DS/6DU-2:6DS/6DU-3:6DS/6DU-4
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;
 SECTOR:GX_FSS:20000:66000
-OWNER:GX:QX
+OWNER:EGGX:QX
 BORDER:GX_1:GX_2:GX_3:GX_4:GX_5:GX_6:GX_7:GX_8:GX_9:GX_10:GX_11:GX_12:GX_13:GX_14:GX_15:GX_16:GX_17:GX_18:GX_19:GX_20:GX_21:GX_22:GX_23
 ;
 SECTOR:PX_CTR:24500:66000
@@ -5216,16 +5216,6 @@ COORD:N053.25.16.039:W006.15.46.931
 COORD:N053.25.16.675:W006.15.44.198
 COORD:N053.25.18.132:W006.15.40.837
 COORD:N053.25.19.842:W006.15.37.997 ;endpoint
-
-EXIT:16:A:LEFT:15
-COORD:N053.25.22.345:W006.15.06.090 ;point on runway
-COORD:N053.25.20.411:W006.15.04.637
-COORD:N053.25.20.009:W006.15.04.099
-COORD:N053.25.19.814:W006.15.03.507
-COORD:N053.25.19.705:W006.15.02.897
-COORD:N053.25.19.792:W006.15.02.107
-COORD:N053.25.20.574:W006.14.59.542
-COORD:N053.25.22.878:W006.14.55.631 ;endpoint
 
 EXIT:16:H1:LEFT:15
 COORD:N053.25.36.855:W006.15.16.666 ;point on runway
