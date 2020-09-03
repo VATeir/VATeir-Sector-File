@@ -124,37 +124,56 @@ SU   291.5   N054.24.28.000 W005.21.55.080 ;South Rock
 
 [AIRPORT]
 ;Ireland
+EI01    .    N053.27.14.903 W006.15.56.618 E ;Knocksedan Heliport
 EIAB    .    N053.35.26.730 W007.37.28.570 E ;Abbeyshrule
-EIAC    .    N053.36.32.915 W006.13.43.414 E ;Custume Barracks
+EIAC    .    N053.25.26.446 W007.56.51.425 E ;Custume Barracks
+EIAH    .    N053.26.34.282 W006.15.43.449 E ;Andona Heliport
 EIBB    .    N053.30.18.400 W006.14.06.870 E ;BALLYBOUGHAL
 EIBN    .    N051.40.45.000 W009.29.27.000 E ;Bantry
 EIBR    .    N053.04.14.900 W007.53.54.800 E ;Birr
 EIBT    .    N054.13.22.000 W010.01.49.000 E ;Belmullet
 EICA    .    N053.13.49.799 W009.28.03.999 E ;Connemara
+EICD    .    N053.32.29.269 W010.05.00.213 E ;Clifden
+EICF    .    N053.48.11.737 W007.11.08.013 E ;Clonkeiffy Farm
 EICK    .    N051.50.28.570 W008.29.27.999 E ;Cork
 EICL    .    N053.15.06.000 W007.07.20.000 E ;Clonbullogue
 EICM    .    N053.18.00.629 W008.56.29.730 E ;Carnmore
 EICN    .    N052.40.10.200 W008.40.30.600 E ;Coonagh
+EIDG    .    N053.25.19.523 W006.32.58.030 E ;Dollys Grove
 EIDL    .    N055.02.40.000 W008.20.27.600 E ;Donegal
 EIDW    .    N053.25.17.000 W006.16.12.000 E ;Dublin Intl
-EIFR    .    N054.29.31.000 W008.14.40.000 E ;Finner Camp
+EIER    .    N052.48.38.947 W008.17.04.332 E ;Erinagh
+EIFR    .    N054.29.32.379 W008.14.34.736 E ;Finner Camp
+EIGM    .    N053.38.45.347 W006.13.46.482 E ;Gormanston
+EIGN    .    N053.10.33.945 W006.38.11.207 E ;Gowran Grange
 EIHH    .    N053.41.78.000 W006.39.21.600 E ;Navan
 EIHN    .    N052.51.17.000 W006.32.47.000 E ;Hacketstown
+EIIB    .    N053.37.10.592 W010.12.38.784 E ;Inishbofin
+EIIF    .    N052.17.53.215 W006.40.54.284 E ;ILAS Field
+EIIH    .    N052.53.32.004 W007.15.46.000 E ;Midland Heliport
 EIIM    .    N053.06.31.026 W009.39.04.176 E ;Inishmore
 EIIR    .    N053.03.30.899 W009.30.22.000 E ;Inisheer
+EIKB    .    N053.07.28.944 W008.28.15.338 E ;Loughrea Heliport
 EIKH    .    N053.03.48.966 W006.51.19.302 E ;Kilrush
+EIKG    .    N051.22.18.000 W007.56.42.000 E ;Kinsale Gas Field
 EIKL    .    N052.39.03.199 W007.17.46.000 E ;Kilkenny
 EIKN    .    N053.54.38.000 W008.49.06.569 E ;Ireland West Airport Knock
 EIKY    .    N052.10.51.159 W009.31.25.621 E ;Farranfore
+EILT    .    N054.57.05.228 W007.40.22.431 E ;Letterkenny
 EIME    .    N053.18.06.000 W006.27.04.799 E ;Casement AB
 EIMH    .    N053.38.16.000 W006.52.43.000 E ;Ballyboy
 EIMN    .    N053.05.30.900 W009.34.11.898 E ;Inishmaan
+EIMP    .    N053.27.08.017 W007.14.12.315 E ;Milltownpass
+EIMS    .    N052.55.49.028 W008.25.28.287 E ;Mountshannon
 EIMY    .    N052.42.11.100 W007.42.19.800 E ;Moyne
 EINC    .    N053.04.16.444 W006.02.43.699 E ;Newcastle
 EINN    .    N052.42.07.119 W008.55.29.339 E ;Shannon
+EIRE    .    N052.23.44.823 W009.20.25.858 E ;Abbeyfeale
 EIRT    .    N052.06.19.000 W008.58.58.000 E ;Rathcoole
 EISG    .    N054.16.48.769 W008.35.57.149 E ;Sligo
+EISS    .    N053.33.40.875 W006.05.33.256 E ;Ballyhavil Farm
 EISP    .    N052.51.00.000 W009.25.00.000 E ;Spanish Point
+EITB    .    N053.53.02.819 W008.29.16.160 E ;Tibohine
 EITM    .    N053.34.29.700 W006.44.19.398 E ;Trim
 EIWF    .    N052.11.13.919 W007.05.13.999 E ;Waterford
 EIWT    .    N053.21.17.892 W006.28.55.041 E ;Weston
