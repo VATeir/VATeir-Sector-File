@@ -103,14 +103,14 @@ Scottish Isle Of Man:MAN_W_CTR:128.055:MW:X:MAN:CTR:MAN:CTR:-:-::
 Scottish Isle Of Man:MAN_W_CTR:128.050:MW:X:MAN:CTR:MAN:CTR:-:-::
 Scottish Control:MAN_CTR:118.775:MAN:X:MAN:CTR:MAN:CTR:-:-::
 Scottish Control:MAN_CTR:118.770:MAN:X:MAN:CTR:MAN:CTR:-:-::
-Scottish Control:-:135.525:SC:SC:SCO:CTR:-:-::
-Scottish Control:-:135.520:SC:SC:SCO:CTR:-:-::
-Scottish Control:-:133.200:SD:SD:SCO:CTR:-:-::
-Scottish Control:-:132.725:SW:SW:SCO:CTR:-:-::
-Scottish Control:-:132.720:SW:SW:SCO:CTR:-:-::
-Scottish Control:-:129.100:SR:SR:SCO:CTR:-:-::
-Scottish Control:-:123.775:SA:SA:STC:CTR:-:-::
-Scottish Control:-:123.770:SA:SA:STC:CTR:-:-::
+Scottish Control:SCO_CTR:135.525:SC:SC:SCO:CTR:-:-::
+Scottish Control:SCO_CTR:135.520:SC:SC:SCO:CTR:-:-::
+Scottish Control:SCO_WD_CTR:133.200:SD:SD:SCO:CTR:-:-::
+Scottish Control:SCO_W_CTR:132.725:SW:SW:SCO:CTR:-:-::
+Scottish Control:SCO_W_CTR:132.720:SW:SW:SCO:CTR:-:-::
+Scottish Control:SCO_R_CTR:129.100:SR:SR:SCO:CTR:-:-::
+Scottish Control:STC_A_CTR:123.775:SA:SA:STC:CTR:-:-::
+Scottish Control:STC_A_CTR:123.770:SA:SA:STC:CTR:-:-::
 
 ;
 Aldergrove Radar:-:128.500:BR:BR:EGAA:APP:-:-::
@@ -4524,7 +4524,7 @@ OWNER:SA:SR:SW:SC
 BORDER:GX_3:PX_4:PX_5:PX_6:PX_7:PX_8:PX_9:PX_10:PX_11:PX_12:PX_13:PX_1:PX_2:PX_3
 ;
 SECTOR:PXR_CTR:25500:66000 ;rathlin
-OWNER:SR:SW:SD:EI
+OWNER:SR:SW:SD:SC:EI
 BORDER:PX_15A:PX_15:PX_5:PX_6:PX_7:PX_8:PX_9:PX_10:PX_11:PX_12:PX_13:PX_14
 ;
 SECTOR:PXW_CTR:25500:66000
