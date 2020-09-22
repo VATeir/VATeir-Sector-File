@@ -49,7 +49,7 @@ W008.53.06.719
 #define Stopbar 255
 #define aprongrass 18944
 #define lightgrass 25600
-#define building 16711680
+#define building 0
 #define aprontxwy 5329233
 #define grey 8684676
 ;#define holdpoint 65535
