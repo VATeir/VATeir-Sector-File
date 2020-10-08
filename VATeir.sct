@@ -3948,8 +3948,8 @@ EIDW/RWY28L/AB/SUROX1B   N053.25.22.018 W006.17.36.257 N053.25.25.367 W006.17.53
            N053.26.26.015 W006.18.53.583 N053.26.36.589 W006.18.50.292
            N053.26.36.589 W006.18.50.292 DUB DUB
            DUB DUB DWN28 DWN28
-           DWN28 DWB28 DWW04 DWW04
-           DWW04 DWW04 SUROX SUROX
+           DWN28 DWB28 DW104 DW104
+           DW104 DW104 SUROX SUROX
 ;**********************************************************************************************
 ;EIDW RWY28L C/D
 ;**********************************************************************************************
@@ -3999,8 +3999,8 @@ EIDW/RWY28L/CD/PESIT5A   N053.22.51.468 W006.29.48.437 BAL BAL
            NEPOD NEPOD PESIT PESIT
 EIDW/RWY28L/CD/ROTEV5A   N053.29.05.456 W006.28.34.685 DW029 DW029
            DW029 DW029 ROTEV ROTEV
-EIDW/RWY28L/CD/SUROX1A   N053.26.54.530 W006.28.30.773 DWW04 DWW04
-           DWW04 DWW04 SUROX SUROX
+EIDW/RWY28L/CD/SUROX1A   N053.26.54.530 W006.28.30.773 DW104 DW104
+           DW104 DW104 SUROX SUROX
 ;**********************************************************************************************
 ;EIDW RWY10 A/B
 ;**********************************************************************************************
@@ -4415,8 +4415,8 @@ EIDW/RWY34/AB/PELIG5H N053.27.08.331 W006.16.23.166 N053.27.16.949 W006.16.29.75
 EIDW/RWY34/AB/ROTEV1H DUB DUB DW029 DW029
            DW029 DW029 ROTEV ROTEV
 EIDW/RWY34/AB/SUROX1H DUB DUB DWN28 DWN28
-           DWN28 DWN28 DWW04 DWW04
-           DWW04 DWW04 SUROX SUROX
+           DWN28 DWN28 DW104 DW104
+           DW104 DW104 SUROX SUROX
 ;
 ;**********************************************************************************************
 ;EIDW RWY34 C/D
@@ -4434,8 +4434,8 @@ EIDW/RWY34/CD/NEVRI1G RWY34 RWY34 DWN26 DWN26
            DW029 DW029 NEVRI NEVRI
 EIDW/RWY34/CD/SUROX1G RWY34 RWY34 DWN26 DWN26
            DWN26 DWN26 DWW06 DWW06
-           DWW06 DWW06 DWW04 DWW04
-           DWW04 DW004 SUROX SUROX
+           DWW06 DWW06 DW104 DW104
+           DW104 DW004 SUROX SUROX
 EIDW/RWY34/CD/INKUR1G RWY34 RWY34 DWN26 DWN26
            DWN26 DWN26 DWW06 DWW06
            DWW06 DWW06 INKUR INKUR 
