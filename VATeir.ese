@@ -109,12 +109,13 @@ EINN:Shannon Tower:118.700:NNTWR:Z:EINN:TWR:-:-:6630:6637
 EINN:Shannon Ground:121.800:NNGND:Z:EINN:GND:-:-:6630:6637
 EINN:Shannon ATIS:130.950:NNATIS:Z:EINN:ATIS:-:-::
 
-;Cork
+;----------------------------------------Cork Aerodrome-------------------------------------------------
 EICK:Cork Radar:119.900:CKAPP:C:EICK:APP:-:-:6650:6657
 EICK:Cork Tower:119.300:CKTWR:Z:EICK:TWR:-:-:6650:6657
 EICK:Cork Ground:121.850:CKGND:Z:EICK:GND:-:-:6650:6657
 EICK:Cork ATIS:120.920:CKATIS:Z:EICK:ATIS:-:-::
-;Regionals 
+
+;----------------------------------------Regional Aerodrome-------------------------------------------------
 EIKN:Connaught Tower:130.700:KNTWR:Z:EIKN:TWR:-:-:6640:6647:N053.54.38.000:W008.49.06.569
 EIKN:Connaught ATIS:118.520:KNATIS:Z:EIKN:ATIS:-:-::
 EIKN:Connaught Ground:121.900:KNGND:Z:EIKN:GND:-:-:6640:6647
@@ -127,13 +128,13 @@ EIKY:Kerry Tower:123.320:KYTWR:Z:EIKY:TWR:-:-:6640:6647
 EIKY:Kerry ATIS:118.020:KYATIS:Z:EIKY:ATIS:-:-::
 EIWT:Weston Tower:122.400:WTTWR:Z:EIWT:TWR:-:-:6600:6627
 EIWT:Weston ATIS:118.870:WTATIS:Z:EIWT:ATIS:-:-::
-;MIL
+
+;----------------------------------------Military-------------------------------------------------
 EIME:Baldonnel Military Radar:122.00:RAD:M:EIME:APP:-:-:6600:6627
 EIME:Baldonnel Tower:123.500:BAL:Z:EIME:TWR:-:-:6600:6627
 EIME:Baldonnel ATIS:122.850:MEATIS:Z:EIME:ATIS:-:-::
-;
-; UK
-;New London Sectors
+
+;----------------------------------------London Control Sectors-------------------------------------------------
 LON_N_CTR:London Control:133.700:LN:LN:LON:CTR:LON:CTR:-:-::
 LON_W_CTR:London Control:126.075:LW:LW:LON:CTR:LON:CTR:-:-::
 LON_W_CTR:London Control:126.070:LW:LW:LON:CTR:LON:CTR:-:-::
@@ -141,33 +142,36 @@ LON_WN_CTR:London Control:133.600:LWN:LWN:LON:CTR:LON:CTR:-:-::
 LON_CTR:London Control:127.825:LON:LON:LON:CTR:LON:CTR:-:-::
 LON_CTR:London Control:127.820:LON:LON:LON:CTR:LON:CTR:-:-::
 EGTT_I_CTR:London Information:124.600:LI:LI:EGTT:CTR:EGTT:CTR:-:-::
-;
+
+;----------------------------------------Scottish Terminal Sectors(Isle of Man)-------------------------------------------------
 Scottish Isle Of Man:MAN_WI_CTR:133.050:MI:X:MAN:CTR:MAN:CTR:-:-::
 Scottish Isle Of Man:MAN_WI_CTR:133.050:MI:X:MAN:CTR:MAN:CTR:-:-::
 Scottish Isle Of Man:MAN_W_CTR:128.055:MW:X:MAN:CTR:MAN:CTR:-:-::
 Scottish Isle Of Man:MAN_W_CTR:128.050:MW:X:MAN:CTR:MAN:CTR:-:-::
 Scottish Control:MAN_CTR:118.775:MAN:X:MAN:CTR:MAN:CTR:-:-::
 Scottish Control:MAN_CTR:118.770:MAN:X:MAN:CTR:MAN:CTR:-:-::
+Ronaldsway Radar:120.850:IOMR:R:EGNS:APP:-:-::
+EGCC_S_APP:Manchester Radar:118.575:CCS:C:EGCC:APP:-:-::
+EGCC_S_APP:Manchester Radar:118.570:CCS:C:EGCC:APP:-:-::
+EGCC_N_APP:Manchester Radar:135.000:CCN:C:EGCC:APP:-:-::
+EGGP_APP:Liverpool Radar:119.850:GPR:X:EGGP:APP:-:-::
+
+;----------------------------------------Scottish Area Control-------------------------------------------------
+
 Scottish Control:SCO_CTR:135.525:SC:SC:SCO:CTR:-:-::
 Scottish Control:SCO_CTR:135.520:SC:SC:SCO:CTR:-:-::
 Scottish Control:SCO_WD_CTR:133.200:SD:SD:SCO:CTR:-:-::
 Scottish Control:SCO_W_CTR:132.725:SW:SW:SCO:CTR:-:-::
 Scottish Control:SCO_W_CTR:132.720:SW:SW:SCO:CTR:-:-::
 Scottish Control:SCO_R_CTR:129.100:SR:SR:SCO:CTR:-:-::
+
+;----------------------------------------Scottish Terminal Control(Antrim)-------------------------------------------------
 Scottish Control:STC_A_CTR:123.775:SA:SA:STC:CTR:-:-::
 Scottish Control:STC_A_CTR:123.770:SA:SA:STC:CTR:-:-::
-
-;
 Aldergrove Radar:-:128.500:BR:BR:EGAA:APP:-:-::
 Belfast Approach:-:120.900:BA:BA:EGAA:APP:-:-::
-Ronaldsway Radar:120.850:IOMR:R:EGNS:APP:-:-::
-EGCC_S_APP:Manchester Radar:118.575:CCS:C:EGCC:APP:-:-::
-EGCC_S_APP:Manchester Radar:118.570:CCS:C:EGCC:APP:-:-::
-EGCC_N_APP:Manchester Radar:135.000:CCN:C:EGCC:APP:-:-::
-EGGP_APP:Liverpool Radar:119.850:GPR:X:EGGP:APP:-:-::
-;
-;Oceanic Positions
-;
+
+;----------------------------------------Shanwich Oceanic-------------------------------------------------
 Shanwick Oceanic(HF-8.906):-:131.550:EGGX:SO:EGGX:FSS:-:-::
 Shanwick Oceanic(HF-5.616):-:131.650:EGGX:SO:EGGX:FSS:-:-::
 Shanwick Oceanic(HF-5.649):-:131.750:EGGX:SO:EGGX:FSS:-:-::
@@ -181,8 +185,8 @@ Shanwick Oceanic(Delivery):131.725:GX3:SO:EGGX:FSS:-:-::
 Shanwick Oceanic(Delivery):131.900:GX4:SO:EGGX:FSS:-:-::
 Shanwick Oceanic(Delivery):131.600:GX5:SO:EGGX:FSS:-:-::
 Shanwick Oceanic:-:127.650:GXD:SO:EGGX:FSS:-:-::
-;
-;
+
+;----------------------------------------Gander Oceanic-------------------------------------------------
 Gander Oceanic(HF-3.016):-:131.570:CZQX:SO:CZQX:FSS:-:-::
 Gander Oceanic(HF-8.864):-:131.670:CZQX:SO:CZQX:FSS:-:-::
 Gander Oceanic(HF-8.879):-:131.770:CZQX:SO:CZQX:FSS:-:-::
@@ -196,15 +200,17 @@ Gander Oceanic(Delivery):131.720:QX3:SO:CZQX:FSS:-:-::
 Gander Oceanic(Delivery):131.900:QX4:SO:CZQX:FSS:-:-::
 Gander Oceanic(Delivery):131.600:QX5:SO:CZQX:FSS:-:-::
 Gander Oceanic(Delivery):131.800:QXD:SO:CZQX:FSS:-:-::
-;
-;
-;
-; Europe
+
+;----------------------------------------French Control-------------------------------------------------
 Brest Control:-:125.500:RR:RR:LFRR:CTR:-:-::
 France Control:-:130.950:UP:UP:LFUP:CTR:-:-::
+
+;----------------------------------------Eurocontrol-------------------------------------------------
 Eurocontrol:-:135.250:EW:E:EURW:FSS:EURW:FSS::
 Eurocontrol:-:135.750:EI:E:EURI:FSS:EURI:FSS::
-;
+
+
+
 [SIDSSTARS]
 STAR:EIME:28:LIPGO1S:LIPGO SORIN
 STAR:EIME:28:VATRY1S:VATRY SORIN
