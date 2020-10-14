@@ -8,7 +8,7 @@
 [POSITIONS]
 ACCIRL3::199.998:SM:SM:ACCIRL3::-:-:
 
-;Shannon Control
+;----------------------------------------Shannon High Level-------------------------------------------------
 EISN:Shannon Control:132.150:SNE:E:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; EAST and PARAENT FREQUENCY
 EISN:Shannon Control:132.150:SNE:F:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; EAST and PARAENT FREQUENCY RELIEF CALLSIGN
 
@@ -59,36 +59,51 @@ EISN:Shannon Control:135.225:SN8:9:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13
 EISN:Shannon Control:135.220:SN8:9:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ; BANBA SUPER RELIEF CALLSIGN
 
 
-;----------------------------------------Low Level-------------------------------------------------
-EISN:Shannon Control:119.070:SLN:7:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ;Low North
+;----------------------------------------Shannon Low Level-------------------------------------------------
+EISN:Shannon Control:119.070:SLN:A:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ;Low North
 EISN:Shannon Control:124.700:SLS:L:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ;Low South
-;
-EISN:Shannon Information:127.500:SNI:I:EISN:CTR:-:-:6600:6677:N053.04.20.190:W009.13.02.599 ;Info
-;Dublin
-EIDW:Dublin Control:129.170:DWUN:1:EIDW:CTR:-:-:6600:6677 
-EIDW:Dublin Control:129.175:DWUN:1:EIDW:CTR:-:-:6600:6677
-EIDW:Dublin Control:132.570:DWLN:2:EIDW:CTR:-:-:6600:6677
-EIDW:Dublin Control:132.575:DWLN:2:EIDW:CTR:-:-:6600:6677
-EIDW:Dublin Control:135.650:DWUS:3:EIDW:CTR:-:-:6600:6677 ;New US Freq
-EIDW:Dublin Control:135.655:DWUS:3:EIDW:CTR:-:-:6600:6677 ;New US Freq
-;EIDW:Dublin Control:124.650:DWUS:3:EIDW:CTR:-:-:6600:6677 ;Old US Freq
-;EIDW:Dublin Control:126.250:DWLS:4:EIDW:CTR:-:-:6600:6677 ;Old LS Freq
-EIDW:Dublin Control:120.750:DWLS:4:EIDW:CTR:-:-:6600:6677 ;New LS Freq
-EIDW:Dublin Control:120.755:DWLS:4:EIDW:CTR:-:-:6600:6677 ;New LS Freq
-EIDW:Dublin Control:118.500:DWI:I:EIDW:CTR:-:-:0400:0477
-;
-EIDW:Dublin Approach:121.100:DA:D:EIDW:APP:-:-:6600:6677
-EIDW:Dublin Approach:119.920:FIN:F:EIDW:APP:-:-:6600:6677 ; 12.5mhz
-EIDW:Dublin Approach:119.925:FIN:F:EIDW:APP:-:-:6600:6677 ; 12.5mhz
-;
+
+;----------------------------------------Shannon Information-------------------------------------------------
+EISN:Shannon Information:127.500:SNI:I:EISN:CTR:-:-:2601:2677:N053.04.20.190:W009.13.02.599 ;Info
+
+;----------------------------------------Dublin Area Control-------------------------------------------------
+EIDW:Dublin Control:129.170:DWUN:1:EIDW:CTR:-:-:6600:6677:N053.25.17.000:W006.16.12.000 
+EIDW:Dublin Control:129.175:DWUN:1:EIDW:CTR:-:-:6600:6677:N053.25.17.000:W006.16.12.000 
+EIDW:Dublin Control:129.170:DWUN:A:EIDW:CTR:-:-:6600:6677:N053.25.17.000:W006.16.12.000 ;RELIEF CALLSIGNS
+EIDW:Dublin Control:129.175:DWUN:A:EIDW:CTR:-:-:6600:6677:N053.25.17.000:W006.16.12.000 ;RELIEF CALLSIGNS
+
+EIDW:Dublin Control:135.650:DWUS:3:EIDW:CTR:-:-:6600:6677:N053.25.17.000:W006.16.12.000 
+EIDW:Dublin Control:135.655:DWUS:3:EIDW:CTR:-:-:6600:6677:N053.25.17.000:W006.16.12.000
+EIDW:Dublin Control:135.650:DWUS:C:EIDW:CTR:-:-:6600:6677:N053.25.17.000:W006.16.12.000 ;RELIEF CALLSIGNS
+EIDW:Dublin Control:135.655:DWUS:C:EIDW:CTR:-:-:6600:6677:N053.25.17.000:W006.16.12.000 ;RELIEF CALLSIGNS
+
+;----------------------------------------Dublin Terminal Control-------------------------------------------------
+EIDW:Dublin Control:132.570:DWLN:2:EIDW:CTR:-:-:6600:6677:N053.25.17.000:W006.16.12.000 
+EIDW:Dublin Control:132.575:DWLN:2:EIDW:CTR:-:-:6600:6677:N053.25.17.000:W006.16.12.000 
+EIDW:Dublin Control:132.570:DWLN:B:EIDW:CTR:-:-:6600:6677:N053.25.17.000:W006.16.12.000 ;RELIEF CALLSIGNS
+EIDW:Dublin Control:132.575:DWLN:B:EIDW:CTR:-:-:6600:6677:N053.25.17.000:W006.16.12.000 ;RELIEF CALLSIGNS
+ 
+EIDW:Dublin Control:120.750:DWLS:4:EIDW:CTR:-:-:6600:6677:N053.25.17.000:W006.16.12.000 
+EIDW:Dublin Control:120.755:DWLS:4:EIDW:CTR:-:-:6600:6677:N053.25.17.000:W006.16.12.000 
+EIDW:Dublin Control:120.750:DWLS:D:EIDW:CTR:-:-:6600:6677:N053.25.17.000:W006.16.12.000 ;RELIEF CALLSIGNS
+EIDW:Dublin Control:120.755:DWLS:D:EIDW:CTR:-:-:6600:6677:N053.25.17.000:W006.16.12.000 ;RELIEF CALLSIGNS
+
+EIDW:Dublin Approach:121.100:DA:D:EIDW:APP:-:-:6600:6677:N053.25.17.000:W006.16.12.000
+
+EIDW:Dublin Approach:119.920:FIN:F:EIDW:APP:-:-:6600:6677:N053.25.17.000:W006.16.12.000
+EIDW:Dublin Approach:119.925:FIN:F:EIDW:APP:-:-:6600:6677:N053.25.17.000:W006.16.12.000
+
+;----------------------------------------Dublin Information-------------------------------------------------
+EIDW:Dublin Control:118.500:DWI:I:EIDW:CTR:-:-:0402:0477:N053.25.17.000:W006.16.12.000
+
+;----------------------------------------Dublin Aerodrome-------------------------------------------------
 EIDW:Dublin Tower:118.600:DWTWR:Z:EIDW:TWR:-:-:6600:6677
-
-
 EIDW:Dublin South Ground:121.800:DWSGND:Z:EIDW:GND:-:-:6600:6677
-EIDW:Dublin North Ground:118.750:DWNGND:Z:EIDW:GND:-:-:6600:6677
+EIDW:Dublin North Ground:125.900:DWNGND:Z:EIDW:GND:-:-:6600:6677
 EIDW:Dublin Clearence Delivery:121.870:DWDEL:Z:EIDW:DEL:-:-:6600:6677
 EIDW:Dublin ATIS:124.520:DWATIS:Z:EIDW:ATIS:-:-::
-;Shannon
+
+;----------------------------------------Shannon Aerodrome-------------------------------------------------
 EINN:Shannon Approach:121.400:NNAPP:E:EINN:APP:-:-:6630:6637
 EINN:Shannon Tower:118.700:NNTWR:Z:EINN:TWR:-:-:6630:6637
 EINN:Shannon Ground:121.800:NNGND:Z:EINN:GND:-:-:6630:6637
