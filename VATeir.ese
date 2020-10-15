@@ -4037,7 +4037,7 @@ ARRAPT:EIDW
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;Dublin Control Sectors;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;28L/34/10R;;;;;;;;;;;;;;;;;;;;;
-SECTOR:DWUN:12600:24500
+SECTOR:DWUN:12500:24500
 OWNER:DWUN:SNE
 BORDER:DW_9:DW_1:DW_DelegationBox_1:DW_DelegationBox_2:DW_DelegationBox_3:DW_SPLIT_3:DW_SPLIT_2:DW_11
 DEPAPT:EIDW
@@ -4057,7 +4057,7 @@ ACTIVE:EIDW:34
 ACTIVE:EIDW:10R
 
 
-SECTOR:DWUS:12600:24500
+SECTOR:DWUS:12500:24500
 OWNER:DWUS:DWUN:SNE
 BORDER:DW_SPLIT_2:DW_SPLIT_3:DW_DelegationBox_3:DW_DelegationBox_4:DW_DelegationBox_5:DW_4:DW_5:DW_6:DW_12
 DEPAPT:EIDW
@@ -4129,7 +4129,7 @@ DEPAPT:EIDW
 ARRAPT:EIDW
 ACTIVE:EIDW:16
 
-SECTOR:US16:12600:18500
+SECTOR:US16:12500:18500
 OWNER:DWUS:SNE
 BORDER:DW_SPLIT_1:DW_12:DW_7.5
 DEPAPT:EIDW
@@ -4150,7 +4150,7 @@ DEPAPT:EIDW
 ARRAPT:EIDW
 ACTIVE:EIDW:16
 
-SECTOR:UN16:12600:18500
+SECTOR:UN16:12500:18500
 OWNER:DWUS:SNE
 BORDER:DW_SPLIT_1:DW_11:DW_8
 DEPAPT:EIDW
@@ -4161,7 +4161,7 @@ ACTIVE:EIDW:16
 ;;;;;;;;;;;; Shannon Control Sectors ;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-----------------------EISN LOW LEVEL NORTH----------------------
+;----------------------EISN LOW LEVEL NORTH----------------------
 ;main sector
 SECTOR:SLN:07500:24500
 OWNER:SLN:SLS:SNE
@@ -4172,7 +4172,7 @@ SECTOR:SLN:18500:24500
 OWNER:SLN:SLS:SNE
 BORDER:SN_N_1:SN_N_4:SN_N_3
 
-----------------------EISN LOW LEVEL SOUTH----------------------
+;----------------------EISN LOW LEVEL SOUTH----------------------
 ;main sector
 SECTOR:SLS:07500:24500
 OWNER:SLS:SNE
