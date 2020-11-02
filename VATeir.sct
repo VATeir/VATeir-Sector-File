@@ -59,6 +59,7 @@ W008.53.06.719
 #define appviewarc 65280
 #define dubnorth 1739734
 #define dubsouth 8005887
+#define EIDWaprontxwy 6579300
 
 ;(BLUE x 65536) + (GREEN x 256) + RED
 [VOR]
@@ -10690,7 +10691,7 @@ aprongrass N053.25.28.211 W006.18.17.717
 
 
 REGIONNAME  EIDW-AIRFIELD ;main grass
-aprontxwy   N053.25.46.394 W006.14.00.436 
+EIDWaprontxwy   N053.25.46.394 W006.14.00.436 
            N053.25.46.243 W006.13.56.694
            N053.25.46.243 W006.13.56.694 
            N053.25.51.612 W006.13.56.099
