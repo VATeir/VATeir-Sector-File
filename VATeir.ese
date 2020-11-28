@@ -179,6 +179,12 @@ Scottish Control:STC_A_CTR:123.770:SA:SA:STC:CTR:-:-::
 Aldergrove Radar:-:128.500:BR:BR:EGAA:APP:-:-::
 Belfast Approach:-:120.900:BA:BA:EGAA:APP:-:-::
 
+;----------------------------------------Shanwick MIL-------------------------------------------------
+Shanwick MIL:EGVV_CTR:133.900:SML:SML:EGVV:CTR:-:-::
+Shanwick MIL (West):EGVV_W_CTR:127.450:SMLW:SMLW:EGVV:CTR:-:-::
+Shanwick MIL (North):EGVV_N_CTR:136.375:SMLN:SMLN:EGVV:CTR:-:-::
+Shanwick MIL (North):EGVV_N_CTR:136.370:SMLN:SMLN:EGVV:CTR:-:-::
+
 ;----------------------------------------Shanwich Oceanic-------------------------------------------------
 Shanwick Oceanic(HF-8.906):-:131.550:EGGX:SO:EGGX:FSS:-:-::
 Shanwick Oceanic(HF-5.616):-:131.650:EGGX:SO:EGGX:FSS:-:-::
