@@ -158,16 +158,17 @@ Scottish Isle Of Man:MAN_W_CTR:128.050:MW:X:MAN:CTR:MAN:CTR:-:-::
 Scottish Control:MAN_CTR:118.775:MAN:X:MAN:CTR:MAN:CTR:-:-::
 Scottish Control:MAN_CTR:118.770:MAN:X:MAN:CTR:MAN:CTR:-:-::
 Ronaldsway Radar:120.850:IOMR:R:EGNS:APP:-:-::
-EGCC_S_APP:Manchester Radar:118.575:CCS:C:EGCC:APP:-:-::
-EGCC_S_APP:Manchester Radar:118.570:CCS:C:EGCC:APP:-:-::
-EGCC_N_APP:Manchester Radar:135.000:CCN:C:EGCC:APP:-:-::
+Manchester Radar:EGCC_S_APP:118.575:CCS:C:EGCC:APP:-:-::
+Manchester Radar:EGCC_S_APP:118.570:CCS:C:EGCC:APP:-:-::
+Manchester Radar:EGCC_N_APP:135.000:CCN:C:EGCC:APP:-:-::
 EGGP_APP:Liverpool Radar:119.850:GPR:X:EGGP:APP:-:-::
 
 ;----------------------------------------Scottish Area Control-------------------------------------------------
 
 Scottish Control:SCO_CTR:135.525:SC:SC:SCO:CTR:-:-::
 Scottish Control:SCO_CTR:135.520:SC:SC:SCO:CTR:-:-::
-Scottish Control:SCO_WD_CTR:133.200:SD:SD:SCO:CTR:-:-::
+Scottish Control:SCO_WD_CTR:133.875:SD:SD:SCO:CTR:-:-::
+Scottish Control:SCO_WD_CTR:133.870:SD:SD:SCO:CTR:-:-::
 Scottish Control:SCO_W_CTR:132.725:SW:SW:SCO:CTR:-:-::
 Scottish Control:SCO_W_CTR:132.720:SW:SW:SCO:CTR:-:-::
 Scottish Control:SCO_R_CTR:129.100:SR:SR:SCO:CTR:-:-::
