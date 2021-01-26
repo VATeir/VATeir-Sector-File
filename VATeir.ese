@@ -216,7 +216,7 @@ Gander Oceanic(Delivery):131.800:QXD:SO:CZQX:FSS:-:-::
 
 ;----------------------------------------French Control-------------------------------------------------
 Brest Control:-:125.500:RR:RR:LFRR:CTR:-:-::
-France Control:-:130.950:UP:UP:LFUP:CTR:-:-::
+Breast Control West:-:127.850:RW:RW:LFUP:CTR:-:-::
 
 ;----------------------------------------Eurocontrol-------------------------------------------------
 Eurocontrol:-:135.250:EW:E:EURW:FSS:EURW:FSS::
@@ -4758,7 +4758,7 @@ OWNER:LWP:LW:LON
 BORDER:LWP1:LWP2:LWP3:LWP4:LWP5:LWP6:LWP7:LWP8:LWP9:LWP10:LWP11:LWP12:LWP13:LWP14:LWP15:LWP16:LWP17:LWP18:LWP19:LWP20:LWP21:LWP22:LWP23:LWP24:LWP25
 ;
 SECTOR:RR_CTR:00000:66000
-OWNER:RR:UP:EW
+OWNER:RR:RW:EW
 BORDER:GX_1:TTW_1:TTW_2:RR_1
 ;
 SECTOR:LN:28500:66000
