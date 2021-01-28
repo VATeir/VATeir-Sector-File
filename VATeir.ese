@@ -216,7 +216,7 @@ Gander Oceanic(Delivery):131.800:QXD:SO:CZQX:FSS:-:-::
 
 ;----------------------------------------French Control-------------------------------------------------
 Brest Control:-:125.500:RR:RR:LFRR:CTR:-:-::
-Breast Control West:-:127.850:RW:RW:LFUP:CTR:-:-::
+Breast Control West:-:127.850:RW:W:LFRR:CTR:-:-::
 
 ;----------------------------------------Eurocontrol-------------------------------------------------
 Eurocontrol:-:135.250:EW:E:EURW:FSS:EURW:FSS::
