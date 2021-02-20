@@ -132,9 +132,9 @@ EIWT:Weston Tower:122.400:WTTWR:Z:EIWT:TWR:-:-:6600:6627
 EIWT:Weston ATIS:118.870:WTATIS:Z:EIWT:ATIS:-:-::
 
 ;----------------------------------------Military-------------------------------------------------
-EIME:Baldonnel Military Radar:122.00:RAD:M:EIME:APP:-:-:6600:6627
+EIME:Baldonnel Military Radar:122.00:RAD:Z:EIME:APP:-:-:6600:6627
 EIME:Baldonnel Tower:123.500:BAL:Z:EIME:TWR:-:-:6600:6627
-EIME:Baldonnel Tower:123.100:BAL:Z:EIME:GND:-:-:6600:6627
+EIME:Baldonnel Ground:123.100:BALGND:Z:EIME:GND:-:-:6600:6627
 EIME:Baldonnel ATIS:122.850:MEATIS:Z:EIME:ATIS:-:-::
 
 ;----------------------------------------London Control Sectors-------------------------------------------------
