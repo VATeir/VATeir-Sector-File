@@ -153,6 +153,8 @@ EGTT_I_CTR:London Information:124.600:LI:LI:EGTT:CTR:EGTT:CTR:-:-::
 ;----------------------------------------Scottish Terminal Sectors(Isle of Man)-------------------------------------------------
 Scottish Isle Of Man:MAN_WI_CTR:133.050:MI:X:MAN:CTR:MAN:CTR:-:-::
 Scottish Isle Of Man:MAN_WI_CTR:133.050:MI:X:MAN:CTR:MAN:CTR:-:-::
+Scottish Isle Of Man:MAN_WP_CTR:126.875:MP:X:MAN:CTR:MAN:CTR:-:-::
+Scottish Isle Of Man:MAN_WP_CTR:126.875:MP:X:MAN:CTR:MAN:CTR:-:-::
 Scottish Isle Of Man:MAN_W_CTR:128.055:MW:X:MAN:CTR:MAN:CTR:-:-::
 Scottish Isle Of Man:MAN_W_CTR:128.050:MW:X:MAN:CTR:MAN:CTR:-:-::
 Scottish Control:MAN_CTR:133.200:MAN:X:MAN:CTR:MAN:CTR:-:-::
@@ -4773,7 +4775,7 @@ OWNER:MI:MW:MAN:LN:LON
 BORDER:MAN_1:MAN_2:MAN_3:MAN_4
 ;
 SECTOR:MANWSN:24500:28500
-OWNER:MI:MW:MAN:LN:LON
+OWNER:MI:MP:MW:MAN:NW:LN:LON
 BORDER:MAN_1:MAN_5:MAN_6:MAN_7
 ;
 
