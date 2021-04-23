@@ -138,10 +138,9 @@ EIME:Baldonnel Ground:123.100:BALGND:Z:EIME:GND:-:-:6600:6627
 EIME:Baldonnel ATIS:122.850:MEATIS:Z:EIME:ATIS:-:-::
 
 ;----------------------------------------CTP Coord-------------------------------------------------
-EIDW:Dublin Clearence Delivery Planner:121.870:DWPDEL:P:EIDW:DEL:-:-:6600:6677
-EIDW:Dublin Tower Planner:118.600:DWPTWR:P:EIDW:TWR:-:-:6600:6677
+EIDW:Dublin CDS Assistant:121.870:DWPDEL:P:EIDW:DEL:-:-:6600:6677:6677:N053.25.17.000:W006.16.12.000 
+EIDW:Dublin Traffic Manager:118.600:DWPTWR:P:EIDW:TWR:-:-:6600:6677:6677:N053.25.17.000:W006.16.12.000 
 EIDW:Shannon Control Planner:131.150:SNP:P:EISN:CTR:-:-:6600:6677:N053.25.17.000:W006.16.12.000 
-
 
 ;----------------------------------------London Control Sectors-------------------------------------------------
 LON_N_CTR:London Control:133.700:LN:LN:LON:CTR:LON:CTR:-:-::
