@@ -182,8 +182,8 @@ Scottish Control:STC_A_CTR:123.775:SA:SA:STC:CTR:-:-::
 Scottish Control:STC_A_CTR:123.770:SA:SA:STC:CTR:-:-::
 Aldergrove Radar:-:128.500:BR:BR:EGAA:APP:-:-::
 Belfast Approach:-:120.900:BA:BA:EGAA:APP:-:-::
-Eglinton Radar:-:123.620:ER:ER:EGAE_APP:-:-::
-Eglinton Tower:_:134.150:ET:ET:EGAE_TWR:-:-::
+Eglinton Radar:-:123.620:ER:ER:EGAE:APP:-:-::
+Eglinton Tower:-:134.150:ET:ET:EGAE:TWR:-:-::
 
 ;----------------------------------------Shanwick MIL-------------------------------------------------
 Shanwick MIL:EGVV_CTR:133.900:SML:SML:EGVV:CTR:-:-::
