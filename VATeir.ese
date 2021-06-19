@@ -192,34 +192,44 @@ Shanwick MIL (North):EGVV_N_CTR:136.375:SMLN:SMLN:EGVV:CTR:-:-::
 Shanwick MIL (North):EGVV_N_CTR:136.370:SMLN:SMLN:EGVV:CTR:-:-::
 
 ;----------------------------------------Shanwich Oceanic-------------------------------------------------
-Shanwick Oceanic(HF-8.906):-:131.550:EGGX:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(HF-5.616):-:131.650:EGGX:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(HF-5.649):-:131.750:EGGX:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(HF-7.675):-:131.850:EGGX:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(HF-8.831):-:131.825:EGGX:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(HF-6.622):-:131.800:EGGX:SO:EGGX:FSS:-:-:::
+Shanwick Oceanic(HF-6.547):-:131.800:EGGX:SO:EGGX:FSS:-:-:::
+Shanwick Oceanic(HF-8.906):-:131.450:EGGX:SO:EGGX:FSS:-:-:::
+Shanwick Oceanic(HF-2.899):-:131.550:EGGX:SO:EGGX:FSS:-:-:::
+Shanwick Oceanic(HF-8.879):-:131.650:EGGX:SO:EGGX:FSS:-:-:::
+Shanwick Oceanic(HF-10.021):-:131.750:EGGX:SO:EGGX:FSS:-:-:::
+Shanwick Oceanic(HF-6.622):-:131.850:EGGX:SO:EGGX:FSS:-:-:::
 ;Shanwick Delivery
-Shanwick Oceanic(Delivery):131.525:GX1:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(Delivery):131.625:GX2:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(Delivery):131.725:GX3:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(Delivery):131.900:GX4:SO:EGGX:FSS:-:-::
-Shanwick Oceanic(Delivery):131.600:GX5:SO:EGGX:FSS:-:-::
-Shanwick Oceanic:-:127.650:GXD:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(Delivery):127.650:GX1:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(Delivery):127.900:GX2:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(Delivery):123.950:GX3:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(Delivery):124.170:GX4:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(Delivery):126.370:GX5:SO:EGGX:FSS:-:-::
+Shanwick Oceanic(Delivery):128.370:GXD:SO:EGGX:FSS:-:-::
 
 ;----------------------------------------Gander Oceanic-------------------------------------------------
+;Gander Oceanic(HF-3.016):-:131.570:CZQX:SO:CZQX:FSS:-:-::
+;Gander Oceanic(HF-8.864):-:131.670:CZQX:SO:CZQX:FSS:-:-::
+;Gander Oceanic(HF-8.879):-:131.770:CZQX:SO:CZQX:FSS:-:-::
+;Gander Oceanic(HF-8.891):-:131.870:CZQX:SO:CZQX:FSS:-:-::
+;Gander Oceanic(HF-6.622):-:131.720:CZQX:SO:CZQX:FSS:-:-::
+;Gander Oceanic(HF-3.476):-:131.700:CZQX:SO:CZQX:FSS:-:-::
+
+Gander Oceanic(HF-8.864):-:131.700:CZQX:SO:CZQX:FSS:-:-::
 Gander Oceanic(HF-3.016):-:131.570:CZQX:SO:CZQX:FSS:-:-::
-Gander Oceanic(HF-8.864):-:131.670:CZQX:SO:CZQX:FSS:-:-::
-Gander Oceanic(HF-8.879):-:131.770:CZQX:SO:CZQX:FSS:-:-::
-Gander Oceanic(HF-8.891):-:131.870:CZQX:SO:CZQX:FSS:-:-::
-Gander Oceanic(HF-6.622):-:131.720:CZQX:SO:CZQX:FSS:-:-::
-Gander Oceanic(HF-3.476):-:131.700:CZQX:SO:CZQX:FSS:-:-::
+Gander Oceanic(HF-5.616):-:131.670:CZQX:SO:CZQX:FSS:-:-::
+Gander Oceanic(HF-2.872):-:131.770:CZQX:SO:CZQX:FSS:-:-::
+Gander Oceanic(HF-4.675):-:131.870:CZQX:SO:CZQX:FSS:-:-::
+Gander Oceanic(HF-13.291):-:131.970:CZQX:SO:CZQX:FSS:-:-::
+
+
+
 ;GANDER DELIVERY
-Gander Oceanic(Delivery):131.520:QX1:SO:CZQX:FSS:-:-::
-Gander Oceanic(Delivery):131.620:QX2:SO:CZQX:FSS:-:-::
-Gander Oceanic(Delivery):131.720:QX3:SO:CZQX:FSS:-:-::
-Gander Oceanic(Delivery):131.900:QX4:SO:CZQX:FSS:-:-::
-Gander Oceanic(Delivery):131.600:QX5:SO:CZQX:FSS:-:-::
-Gander Oceanic(Delivery):131.800:QXD:SO:CZQX:FSS:-:-::
+Gander Oceanic(Delivery):128.700:QX1:SO:CZQX:FSS:-:-::
+Gander Oceanic(Delivery):119.420:QX2:SO:CZQX:FSS:-:-::
+Gander Oceanic(Delivery):135.050:QX3:SO:CZQX:FSS:-:-::
+Gander Oceanic(Delivery):128.450:QX4:SO:CZQX:FSS:-:-::
+Gander Oceanic(Delivery):135.450:QX5:SO:CZQX:FSS:-:-::
+Gander Oceanic(Delivery):134.200:QXD:SO:CZQX:FSS:-:-::
 
 ;----------------------------------------French Control-------------------------------------------------
 Brest Control:-:125.500:RR:RR:LFRR:CTR:-:-::
